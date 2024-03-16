@@ -1,0 +1,23 @@
+[
+    { "id": 1, "nombre": "Camisa", "precio": 25.99, "cantidad": 20 },
+    { "id": 2, "nombre": "Pantalón", "precio": 35.50, "cantidad": 15 },
+    { "id": 3, "nombre": "Zapatos", "precio": 50.00, "cantidad": 10 },
+    { "id": 4, "nombre": "Gorra", "precio": 12.75, "cantidad": 30 },
+    { "id": 5, "nombre": "Calcetines", "precio": 8.99, "cantidad": 25 },
+    { "id": 6, "nombre": "Bufanda", "precio": 15.25, "cantidad": 18 },
+    { "id": 7, "nombre": "Reloj", "precio": 99.99, "cantidad": 5 },
+    { "id": 8, "nombre": "Bolso", "precio": 45.00, "cantidad": 12 },
+    { "id": 9, "nombre": "Sombrero", "precio": 20.50, "cantidad": 8 },
+    { "id": 10, "nombre": "Gafas de sol", "precio": 30.75, "cantidad": 10 },
+    { "id": 11, "nombre": "Chaqueta", "precio": 55.99, "cantidad": 15 },
+    { "id": 12, "nombre": "Jeans", "precio": 40.50, "cantidad": 20 },
+    { "id": 13, "nombre": "Zapatillas deportivas", "precio": 70.00, "cantidad": 10 },
+    { "id": 14, "nombre": "Mochila", "precio": 28.75, "cantidad": 25 },
+    { "id": 15, "nombre": "Sudadera", "precio": 22.99, "cantidad": 18 },
+    { "id": 16, "nombre": "Botines", "precio": 80.00, "cantidad": 8 },
+    { "id": 17, "nombre": "Bufanda", "precio": 10.25, "cantidad": 30 },
+    { "id": 18, "nombre": "Guantes", "precio": 6.50, "cantidad": 40 },
+    { "id": 19, "nombre": "Paraguas", "precio": 15.50, "cantidad": 15 },
+    { "id": 20, "nombre": "Cinturón", "precio": 18.75, "cantidad": 22 }
+  ]
+  
