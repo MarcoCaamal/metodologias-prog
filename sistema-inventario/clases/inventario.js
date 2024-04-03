@@ -1,12 +1,13 @@
 require('colors');
 const { Producto } = require('./producto');
-const { readFile,  } = require('fs/promises');
+const { readFile, writeFile,   } = require('fs/promises');
 const rl = require('node:readline/promises').
 createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
+writeFile()
 
 class Inventario {
     productos = [];
